@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ftp-demo"
+  id="myeclipse.1437615197543"
+  context-root="/ftp-demo"
+  j2ee-spec="5.0"
+  archive="ftp-demo.war">
+  <attributes>
+    <attribute name="webrootdir" value="/src/main/webapp" />
+  </attributes>
+</project-module>
+
